@@ -1,0 +1,13 @@
+.body_backgorund {
+    background-color: antiquewhite;
+}
+
+#myCanvas {
+    border: 25px;
+    background-color: lavenderblush;
+    border-style: ridge;
+}
+
+input {
+    margin-right: 25px;
+}
